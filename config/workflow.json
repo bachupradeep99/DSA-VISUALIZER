@@ -1,0 +1,857 @@
+{
+  "metadata": {
+    "visual": {
+      "presentation": {
+        "themes": {
+          "9acdecc5-b6fa-4840-95ae-eea3dfd9ff93": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#1b0e00",
+                "10": "#291800",
+                "15": "#372100",
+                "20": "#452b00",
+                "25": "#533500",
+                "30": "#624000",
+                "35": "#724a00",
+                "40": "#825500",
+                "50": "#a26c00",
+                "60": "#c28417",
+                "70": "#e19e33",
+                "80": "#ffb94e",
+                "90": "#ffddb2",
+                "95": "#ffeedc",
+                "98": "#fff8f4",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#1b0e00",
+                "10": "#271904",
+                "15": "#32230c",
+                "20": "#3e2d16",
+                "25": "#4a3820",
+                "30": "#56442a",
+                "35": "#624f35",
+                "40": "#6f5b40",
+                "50": "#897357",
+                "60": "#a58d6f",
+                "70": "#c0a788",
+                "80": "#ddc2a1",
+                "90": "#fadebc",
+                "95": "#ffeedc",
+                "98": "#fff8f4",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#14100c",
+                "10": "#1f1b16",
+                "15": "#292520",
+                "20": "#34302a",
+                "25": "#403b35",
+                "30": "#4b4640",
+                "35": "#57514b",
+                "40": "#635d57",
+                "50": "#7d766f",
+                "60": "#978f88",
+                "70": "#b2aaa2",
+                "80": "#cec5bd",
+                "90": "#eae1d9",
+                "95": "#f9efe7",
+                "98": "#fff8f4",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#171007",
+                "10": "#221a10",
+                "15": "#2d241a",
+                "20": "#382f24",
+                "25": "#433a2e",
+                "30": "#4f4539",
+                "35": "#5b5144",
+                "40": "#685d50",
+                "50": "#817567",
+                "60": "#9c8f80",
+                "70": "#b7a99a",
+                "80": "#d3c4b4",
+                "90": "#f0e0cf",
+                "95": "#feeedd",
+                "98": "#fff8f4",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1BR4uJ2ofMV3wjIja6ue1alV9SU9B-ejS",
+                "mimeType": "image/png",
+                "contentLength": 1579900
+              }
+            }
+          },
+          "5b71afb1-c3e3-4eda-8997-a6f805092af6": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#001224",
+                "10": "#001d36",
+                "15": "#002746",
+                "20": "#003258",
+                "25": "#003d69",
+                "30": "#00497c",
+                "35": "#00558f",
+                "40": "#0061a3",
+                "50": "#307bbe",
+                "60": "#5095d9",
+                "70": "#6db0f6",
+                "80": "#9dcaff",
+                "90": "#d1e4ff",
+                "95": "#e9f1ff",
+                "98": "#f8f9ff",
+                "99": "#fdfcff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#05121f",
+                "10": "#0f1c2b",
+                "15": "#1a2735",
+                "20": "#253140",
+                "25": "#303c4c",
+                "30": "#3b4858",
+                "35": "#475364",
+                "40": "#535f70",
+                "50": "#6b7889",
+                "60": "#8592a4",
+                "70": "#9facbf",
+                "80": "#bac8db",
+                "90": "#d6e4f7",
+                "95": "#e9f1ff",
+                "98": "#f8f9ff",
+                "99": "#fdfcff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#0f1114",
+                "10": "#1a1c1e",
+                "15": "#242629",
+                "20": "#2f3033",
+                "25": "#3a3b3e",
+                "30": "#45474a",
+                "35": "#515255",
+                "40": "#5d5e61",
+                "50": "#76777a",
+                "60": "#909094",
+                "70": "#ababae",
+                "80": "#c6c6ca",
+                "90": "#e2e2e6",
+                "95": "#f1f0f4",
+                "98": "#faf9fc",
+                "99": "#fdfcff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#0d1117",
+                "10": "#171c22",
+                "15": "#21262c",
+                "20": "#2c3137",
+                "25": "#373c42",
+                "30": "#42474e",
+                "35": "#4e535a",
+                "40": "#5a5f66",
+                "50": "#73777f",
+                "60": "#8d9199",
+                "70": "#a7abb4",
+                "80": "#c3c7cf",
+                "90": "#dfe2eb",
+                "95": "#edf1f9",
+                "98": "#f8f9ff",
+                "99": "#fdfcff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1bPbWOhngSraDRYbYKd6icjzClV_iEt-J",
+                "mimeType": "image/png",
+                "contentLength": 1659768
+              }
+            }
+          },
+          "5198f624-3197-475b-a7a9-595437c0559e": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#1a0f00",
+                "10": "#281800",
+                "15": "#352200",
+                "20": "#432c00",
+                "25": "#523600",
+                "30": "#614000",
+                "35": "#704b00",
+                "40": "#7f5600",
+                "50": "#a06d00",
+                "60": "#bf8614",
+                "70": "#dea031",
+                "80": "#fdbb4a",
+                "90": "#ffddaf",
+                "95": "#ffeeda",
+                "98": "#fff8f3",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#1a0f00",
+                "10": "#261904",
+                "15": "#31230c",
+                "20": "#3d2e16",
+                "25": "#493920",
+                "30": "#55442a",
+                "35": "#625035",
+                "40": "#6e5b40",
+                "50": "#887456",
+                "60": "#a38d6e",
+                "70": "#bfa887",
+                "80": "#dcc3a1",
+                "90": "#f9dfbb",
+                "95": "#ffeeda",
+                "98": "#fff8f3",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#14100c",
+                "10": "#1f1b16",
+                "15": "#292520",
+                "20": "#34302a",
+                "25": "#3f3b35",
+                "30": "#4b4640",
+                "35": "#57524b",
+                "40": "#635d57",
+                "50": "#7c766f",
+                "60": "#979088",
+                "70": "#b2aaa2",
+                "80": "#cdc5bd",
+                "90": "#eae1d9",
+                "95": "#f9efe7",
+                "98": "#fff8f3",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#161007",
+                "10": "#221a10",
+                "15": "#2c251a",
+                "20": "#372f24",
+                "25": "#433a2e",
+                "30": "#4f4539",
+                "35": "#5b5144",
+                "40": "#675d4f",
+                "50": "#817567",
+                "60": "#9b8f80",
+                "70": "#b6a99a",
+                "80": "#d2c4b4",
+                "90": "#efe0cf",
+                "95": "#feeedd",
+                "98": "#fff8f3",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1AiHzG14vNuBv1ClSYi7MKVMPvsjiVH7q",
+                "mimeType": "image/png",
+                "contentLength": 1610832
+              }
+            }
+          },
+          "95e7ad97-ec55-4b2e-920e-b9dfdae6ea4b": {
+            "template": "basic",
+            "templateAdditionalOptions": {},
+            "palette": {
+              "primary": {
+                "0": "#000000",
+                "5": "#000e33",
+                "10": "#00174a",
+                "15": "#002160",
+                "20": "#002a76",
+                "25": "#123684",
+                "30": "#224290",
+                "35": "#304e9c",
+                "40": "#3d5aa9",
+                "50": "#5774c4",
+                "60": "#718ee0",
+                "70": "#8ca8fc",
+                "80": "#b3c5ff",
+                "90": "#dbe1ff",
+                "95": "#eef0ff",
+                "98": "#faf8ff",
+                "99": "#fefbff",
+                "100": "#ffffff"
+              },
+              "secondary": {
+                "0": "#000000",
+                "5": "#0b1021",
+                "10": "#151b2c",
+                "15": "#202537",
+                "20": "#2a3042",
+                "25": "#353b4d",
+                "30": "#414659",
+                "35": "#4c5265",
+                "40": "#585e72",
+                "50": "#71768b",
+                "60": "#8b90a5",
+                "70": "#a5aac1",
+                "80": "#c1c6dd",
+                "90": "#dde1f9",
+                "95": "#eef0ff",
+                "98": "#faf8ff",
+                "99": "#fefbff",
+                "100": "#ffffff"
+              },
+              "tertiary": "",
+              "error": {
+                "0": "#000000",
+                "5": "#2d0001",
+                "10": "#410002",
+                "15": "#540003",
+                "20": "#690005",
+                "25": "#7e0007",
+                "30": "#93000a",
+                "35": "#a80710",
+                "40": "#ba1a1a",
+                "50": "#de3730",
+                "60": "#ff5449",
+                "70": "#ff897d",
+                "80": "#ffb4ab",
+                "90": "#ffdad6",
+                "95": "#ffedea",
+                "98": "#fff8f7",
+                "99": "#fffbff",
+                "100": "#ffffff"
+              },
+              "neutral": {
+                "0": "#000000",
+                "5": "#101114",
+                "10": "#1b1b1f",
+                "15": "#252529",
+                "20": "#303034",
+                "25": "#3b3b3f",
+                "30": "#46464a",
+                "35": "#525256",
+                "40": "#5e5e62",
+                "50": "#77767a",
+                "60": "#919094",
+                "70": "#acaaaf",
+                "80": "#c7c6ca",
+                "90": "#e4e2e6",
+                "95": "#f2f0f4",
+                "98": "#fbf8fd",
+                "99": "#fefbff",
+                "100": "#ffffff"
+              },
+              "neutralVariant": {
+                "0": "#000000",
+                "5": "#0f1118",
+                "10": "#191b23",
+                "15": "#24252d",
+                "20": "#2e3038",
+                "25": "#393b43",
+                "30": "#45464f",
+                "35": "#50525a",
+                "40": "#5c5e67",
+                "50": "#757680",
+                "60": "#8f909a",
+                "70": "#aaaab4",
+                "80": "#c5c6d0",
+                "90": "#e2e2ec",
+                "95": "#f0f0fa",
+                "98": "#faf8ff",
+                "99": "#fefbff",
+                "100": "#ffffff"
+              }
+            },
+            "themeColors": {
+              "primaryColor": "",
+              "secondaryColor": "",
+              "backgroundColor": "",
+              "primaryTextColor": "",
+              "textColor": ""
+            },
+            "splashScreen": {
+              "storedData": {
+                "handle": "drive:/1v-9bTxCAs_O7H6M0l0Tk1_nbwaFKZAX-",
+                "mimeType": "image/png",
+                "contentLength": 1595628
+              }
+            }
+          }
+        },
+        "theme": "95e7ad97-ec55-4b2e-920e-b9dfdae6ea4b"
+      }
+    },
+    "intent": "2️⃣ DSA Visualizer (Standout Project 🔥)\n\n\n🔹 Idea:\n\nBuild a web app that visually explains:\n\nSorting algorithms (Bubble, Merge, Quick)\n\nStack / Queue\n\nBinary Search\n\n🔹 Tech:\n\nReact (animations)\nOptional: Tailwind CSS\n\n🔹 Why It’s Smart:\n\nCombines DSA + React\n\nShows deep understanding\n\nInterviewers LOVE this\n\nResume Line:\n\nBuilt an interactive DSA visualizer demonstrating sorting and searching algorithms with real-time animations.",
+    "revision_intents": [
+      "🔥 1️⃣ Add a “Validation Layer” (Very Important)\n\nRight now:\n\nUser Input → Directly to Generation\n\nAdd:\n\nInput Validation & Preprocessing\n\n\nWhy?\n\nPrevent invalid input\n\nHandle edge cases\n\nClean data\n\nImprove reliability\n\nUpdated flow:\n\nAlgorithm Type\nInput Data\n        ↓\nInput Validation Layer\n        ↓\nGenerate Visualization Algorithm\n        ↓\nExecute Algorithm Code\n        ↓\nTrace Formatter\n        ↓\nRender Visualization\n\n\nThis makes it look production-ready.\n\n🔥 2️⃣ Separate Execution & Trace Engine\n\nCurrently:\nExecute → Render\n\nBetter structure:\n\nExecute Algorithm\n        ↓\nGenerate Execution Trace (State Snapshots)\n        ↓\nRender Engine\n\n\nThis shows:\n\nClean separation of concerns\n\nState-based rendering\n\nScalable architecture\n\nRecruiters LOVE this thinking.\n\n🔥 3️⃣ Add “Time & Space Complexity Analyzer”\n\nAdd a node like:\n\nCompute Complexity\n\n\nAfter algorithm selection, show:\n\nTime complexity\n\nSpace complexity\n\nBest / Worst case\n\nThis makes your tool educational, not just visual.\n\n🔥 4️⃣ Add “Step Controller Node”\n\nInstead of directly rendering, create:\n\nPlayback Controller\n- Play\n- Pause\n- Step Forward\n- Speed Control\n\n\nThis shows:\n\nUI state management\n\nControlled animation\n\nEvent-driven architecture\n\n🔥 5️⃣ Add Error Handling Node\n\nAdd:\n\nError Handler\n\n\nHandles:\n\nInvalid algorithm\n\nWrong data type\n\nRuntime errors\n\nThis makes it look enterprise-level.\n\n🔥 6️⃣ Improve Naming (Very Important)\n\nRename your nodes more professionally.\n\nInstead of:\n\nGenerate Visualization A...\n\nUse:\n\nAlgorithm Interpretation Engine\n\nSimulation Engine\n\nExecution Sandbox\n\nTrace Processor\n\nRendering Engine\n\nBetter naming = better perception.\n\n🔥 7️⃣ Add Support for Graph Algorithms (Future Node)\n\nPlan a branch:\n\nGraph Input Mode\n    ↓\nGraph Renderer (Canvas Based)\n\n\nThis shows scalability.\n\n🔥 8️⃣ Add Dark / Light Theme Toggle\n\nSimple feature but:\n\nShows UI thinking\n\nImproves product quality\n\nMakes screenshots attractive\n\n🔥 9️⃣ Make It Event-Driven\n\nInstead of linear only:\n\nMake nodes communicate via:\n\nEvents:\nonAlgorithmChange\nonExecutionComplete\nonTraceGenerated\n\n\nNow it becomes system-design level."
+    ],
+    "raw_intent": "2️⃣ DSA Visualizer (Standout Project 🔥)\n\n\n🔹 Idea:\n\nBuild a web app that visually explains:\n\nSorting algorithms (Bubble, Merge, Quick)\n\nStack / Queue\n\nBinary Search\n\n🔹 Tech:\n\nReact (animations)\nOptional: Tailwind CSS\n\n🔹 Why It’s Smart:\n\nCombines DSA + React\n\nShows deep understanding\n\nInterviewers LOVE this\n\nResume Line:\n\nBuilt an interactive DSA visualizer demonstrating sorting and searching algorithms with real-time animations.",
+    "parameters": {}
+  },
+  "url": "drive:/1xLkaUElgDJQqxK3XYElauGWFR7BeZE0_",
+  "assets": {},
+  "title": "DSA Visualizer",
+  "description": "Visualize data structures and algorithms with interactive animations.",
+  "version": "0.0.1",
+  "nodes": [
+    {
+      "id": "node_step_input_validation_layer",
+      "metadata": {
+        "title": "Input Validation Layer",
+        "visual": {
+          "x": 700,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Perform rigorous validation and preprocessing of the 'algorithm_type' and 'input_data'. This step checks for malformed data, size constraints, and edge cases to ensure the simulation engine receives clean, reliable input. The text_generation_agent will analyze and process these inputs to identify any issues."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe primary objective is to perform a rigorous validation and preprocessing of the provided `algorithm_type` and `input_data`. You will act as a high-level validator to ensure that the data passed to the simulation engine is clean, reliable, and free of errors by identifying malformed data, size constraint violations, and problematic edge cases.\n\n## Task Definition\n1. **Receive Inputs:** Access the provided variables:\n    - Algorithm Type: `{{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}`\n    - Input Data: `{{\"type\":\"in\",\"path\":\"ask_user_input_data\",\"title\":\"Input Data\"}}`\n2. **Perform Analysis:** Use the suggested tool to conduct a thorough evaluation of these inputs. \n3. **Check for Malformed Data:** Inspect the `input_data` for syntax errors, missing required fields, or data type inconsistencies based on the `algorithm_type`.\n4. **Evaluate Size Constraints:** Determine if the volume or scale of the `input_data` exceeds the operational limits of the simulation engine or if it is too small to be meaningful.\n5. **Identify Edge Cases:** Scrutinize the data for boundary conditions, null values, or unusual patterns that might cause the simulation engine to crash or produce inaccurate results.\n6. **Preprocess Data:** If corrections are possible (e.g., removing illegal characters, normalizing formats), generate a preprocessed version of the data.\n7. **Generate Validation Report:** Summarize whether the data is fit for use.\n\n## Definitions and Specifications\n- **algorithm_type**: The specific simulation logic or model intended to process the data. Validation rules should be tailored to the requirements of this specific type.\n- **input_data**: The raw payload to be validated. \n- **Malformed Data**: Data that deviates from expected structures (e.g., invalid JSON, incorrect CSV headers, or mismatching schemas).\n- **Size Constraints**: The minimum and maximum thresholds for data volume (e.g., number of rows, character count, or numerical ranges) that the engine can handle.\n- **Edge Cases**: Exceptional scenarios such as empty inputs, extremely high/low values, or data that sits at the limit of the engine's capabilities.\n\n## Capabilities Usage\n- **Text Generation:** You MUST use the <function>generate_text</function> capability to analyze and process the inputs. Use this tool to specifically identify issues, describe malformed data segments, and evaluate the edge cases. Your final report should be based on the output of this analysis.\n\n## Requirements for the Ending Response\n- The final output must be provided in **XML format** to allow for programmatic processing by the simulation engine.\n- Use the following XML structure:\n    - `<validation_status>`: Must be one of \"READY\", \"WARNING\", or \"REJECTED\".\n    - `<issues_found>`: A list of specific issues (malformed data, size issues, edge cases) found during analysis.\n    - `<preprocessed_input>`: The cleaned and validated version of the data.\n    - `<summary>`: A brief explanation of the validation results.\n- **CRITICAL**: Do NOT include your internal thinking process in the final response. \n- **CRITICAL**: Strictly adhere to the XML format and ensure all tags are properly closed.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities (search, content generation, file system access) as needed to gather information and create the required outputs. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_error_handler",
+      "metadata": {
+        "title": "Error Handler",
+        "visual": {
+          "x": 1050,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Monitor the validation results from the 'input_validation_layer' for potential issues such as invalid algorithm-data combinations or runtime-risk inputs. This node ensures enterprise-level reliability by providing clear error feedback or corrections before execution. The text_generation_agent will analyze the validation output to detect and report errors."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe primary objective is to monitor and analyze the validation results provided by the input validation layer to ensure enterprise-level reliability. You will identify potential issues, such as invalid algorithm-data combinations or runtime-risk inputs, and provide clear error feedback or suggested corrections before the system proceeds to execution.\n\n## Task Definition\n1. **Analyze Input Validation Data**: Examine the contents of {{\"type\":\"in\",\"path\":\"node_step_input_validation_layer\",\"title\":\"Input Validation Layer\"}} to identify any flags, warnings, or errors reported by the validation system.\n2. **Detect Conflicts and Risks**: \n    - Identify \"invalid algorithm-data combinations\" where the provided data format or content is incompatible with the intended algorithm.\n    - Detect \"runtime-risk inputs\" that could lead to system instability, timeouts, security vulnerabilities, or execution failures.\n3. **Generate Error Feedback/Corrections**: For every issue detected, generate a clear, technical explanation and, where possible, a corrected version of the input or a specific instruction on how to fix it.\n4. **Leverage Analysis Capabilities**: Use the <function>generate_text</function> capability to perform a deep semantic and structural analysis of the validation output to ensure no subtle risks are overlooked.\n5. **Report Status**: Determine if the input is safe to proceed (\"VALID\") or requires intervention (\"INVALID\").\n\n## Definitions and Specifications\n- **Invalid Algorithm-Data Combinations**: Situations where the schema, data type, or statistical properties of the input do not match the requirements of the algorithm selected for processing (e.g., passing categorical strings to a model expecting normalized floats).\n- **Runtime-Risk Inputs**: Inputs that pose a threat to the execution environment, including but not limited to:\n    - Potential injection attacks.\n    - Malformed structures that could cause parsing crashes.\n    - Extremely large payloads that might exceed memory or timeout limits.\n    - Logical inconsistencies that would trigger unhandled exceptions during runtime.\n- **Enterprise-Level Reliability**: A standard of output that is precise, actionable, and formatted for programmatic consumption by downstream fail-safe mechanisms.\n\n## Capabilities Usage\nYou MUST use the following tool to complete this task:\n- <function>generate_text</function>: Use this tool to perform the detailed analysis of the {{\"type\":\"in\",\"path\":\"node_step_input_validation_layer\",\"title\":\"Input Validation Layer\"}} data. The tool should be used to synthesize the raw validation flags into a coherent reliability report and to generate the specific correction logic required.\n\n## Requirements for the Ending Response\nThe final output must be structured in XML format to allow for automated processing by the system's execution controller. Use the following tags:\n\n- `<validation_status>`: Must be either `PASS` (no issues) or `FAIL` (issues detected).\n- `<risk_assessment>`: A brief summary of the reliability level (Low, Medium, High).\n- `<detected_issues>`: A list of specific errors or risks identified. If no issues, leave empty.\n- `<corrections_and_feedback>`: Clear instructions for the user or automated corrections for the input data.\n- `<final_recommendation>`: A definitive statement on whether to proceed, abort, or retry with corrections.\n\n**Format Example:**\n```xml\n<validation_report>\n  <validation_status>FAIL</validation_status>\n  <risk_assessment>High</risk_assessment>\n  <detected_issues>\n    <issue>Invalid algorithm-data combination: Algorithm 'X' requires integer inputs, but 'Y' provided string values.</issue>\n    <issue>Runtime-risk: Input length exceeds buffer limits.</issue>\n  </detected_issues>\n  <corrections_and_feedback>Convert field 'Y' to integer format or truncate input to 256 characters.</corrections_and_feedback>\n  <final_recommendation>ABORT_AND_FIX</final_recommendation>\n</validation_report>\n```\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities, specifically <function>generate_text</function>, to gather information and create the required outputs based on the {{\"type\":\"in\",\"path\":\"node_step_input_validation_layer\",\"title\":\"Input Validation Layer\"}}. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_algorithm_interpretation_engine",
+      "metadata": {
+        "title": "Algorithm Interpretation Engine",
+        "visual": {
+          "x": 1400,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Analyze the validated request from the 'error_handler' to select the appropriate simulation logic. This engine determines the visualization path, specifically handling the branching logic between linear algorithms (like sorting) and graph-based algorithms requiring canvas-based rendering. The 'algorithm_type' is crucial for this interpretation. The text_generation_agent will interpret these details to guide subsequent steps."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe objective is to analyze a validated request and algorithm classification to determine the appropriate simulation logic and visualization path. You will specifically evaluate whether the algorithm requires a linear sequential visualization (like sorting) or a canvas-based rendering for complex structures (like graphs).\n\n## Task Definition\nTo achieve this objective, you must perform the following steps:\n1.  **Analyze Input Data**: Review the validated request provided in `{{\"type\":\"in\",\"path\":\"node_step_error_handler\",\"title\":\"Error Handler\"}}` and the identified `{{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}`.\n2.  **Determine Algorithm Branch**: Evaluate the `{{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}` to decide if it falls under \"Linear Algorithms\" or \"Graph-based Algorithms.\"\n3.  **Identify Visualization Path**: Based on the branch, select the specific visualization requirement (e.g., standard array-based UI vs. canvas-based rendering).\n4.  **Generate Interpretation**: Use the recommended tool to interpret these findings and provide guidance for the subsequent execution steps.\n\n## Definitions and Specifications\n*   **Linear Algorithms**: Algorithms such as sorting (Bubble, Quick, Merge) or searching that operate on linear data structures. These typically utilize standard list or array-based visualization paths.\n*   **Graph-based Algorithms**: Algorithms involving nodes and edges (e.g., Dijkstra’s, BFS, DFS, A*) that require complex canvas-based rendering for spatial representation.\n*   **Error Handler Input**: This contains the validated context of the user request, ensuring the logic selection is based on a clean state.\n*   **Algorithm Type**: The specific classification of the logic to be simulated.\n\n## Capabilities Usage\nYou MUST leverage the following capability to complete this task:\n*   **Text Generation**: Use <function>generate_text</function> to interpret the relationship between the `{{\"type\":\"in\",\"path\":\"node_step_error_handler\",\"title\":\"Error Handler\"}}` data and the `{{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}`. The tool should produce the final logic selection and visualization instructions.\n\n## Requirements for the Ending Response\nYour final response must be structured in XML format to ensure programmatic compatibility. Include the following fields:\n*   `<logic_selection>`: The determined simulation logic (Linear or Graph).\n*   `<visualization_path>`: The specific rendering method required (Array-based or Canvas-based).\n*   `<interpretation_summary>`: A concise explanation generated by the text agent explaining why this path was chosen.\n*   `<next_steps>`: Instructions for the subsequent agent based on the selection.\n\n**Constraints**: \n- Do NOT include your internal thinking process in the final output.\n- Strictly adhere to the XML structure.\n- Ensure the interpretation is directly grounded in the provided `{{\"type\":\"in\",\"path\":\"node_step_error_handler\",\"title\":\"Error Handler\"}}` and `{{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}`.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities (specifically <function>generate_text</function>) as needed to gather information and create the required outputs. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_complexity_analyzer",
+      "metadata": {
+        "title": "Time & Space Complexity Analyzer",
+        "visual": {
+          "x": 1750,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Compute the theoretical performance metrics for the selected algorithm. This educational node determines Best/Average/Worst-case Time Complexity and Space Complexity based on the provided input data size, drawing insights from the 'algorithm_interpretation_engine' output. The text_generation_agent will perform this analytical task."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe objective of this task is to compute and provide a detailed analytical breakdown of the theoretical performance metrics for a specific algorithm. You will determine the Best-case, Average-case, and Worst-case Time Complexity, as well as the Space Complexity, using insights derived from the provided algorithm interpretation.\n\n## Task Definition\nYour task involves the following steps:\n1. **Analyze Input:** Review the algorithm details provided in {{\"type\":\"in\",\"path\":\"node_step_algorithm_interpretation_engine\",\"title\":\"Algorithm Interpretation Engine\"}} to understand the algorithm's logic, structure, and operational flow.\n2. **Determine Time Complexity:** \n    - Identify the **Best-case Time Complexity** (the minimum time required for program execution).\n    - Identify the **Average-case Time Complexity** (the average amount of time required for program execution).\n    - Identify the **Worst-case Time Complexity** (the maximum time required for program execution).\n3. **Determine Space Complexity:** \n    - Identify the **Space Complexity** (the amount of memory space required by the algorithm in relation to the input size).\n4. **Synthesize Insights:** Use the analytical capabilities of the text generation agent to explain the rationale behind each complexity metric based on the algorithm's behavior (e.g., loops, recursion, data structures used).\n\n## Definitions and Specifications\nTo ensure accuracy in your analysis, adhere to these standard definitions:\n- **Best-case Complexity:** Represented by Big Omega (Ω) or Big O (O) in optimal conditions where the algorithm performs the fewest operations.\n- **Average-case Complexity:** Represented by Big Theta (Θ) or Big O (O), reflecting the expected behavior on typical input data.\n- **Worst-case Complexity:** Represented by Big O (O), reflecting the upper bound of the running time.\n- **Space Complexity:** Represented by Big O (O), accounting for both auxiliary space and space used by the input.\n- **Input Data:** The analysis should be sensitive to how these complexities scale relative to the input size 'n'.\n\n## Capabilities Usage\nYou MUST use the following tool to perform the analysis:\n- Use <function>generate_text</function> to process the information from {{\"type\":\"in\",\"path\":\"node_step_algorithm_interpretation_engine\",\"title\":\"Algorithm Interpretation Engine\"}}, conduct the theoretical complexity analysis, and generate the final educational report.\n\n## Requirements for the Ending Response\nThe final output must be structured in XML format to ensure it can be parsed as an educational node. Ensure the following format:\n\n```xml\n<performance_metrics>\n  <algorithm_context>\n    <summary>Brief summary of the algorithm being analyzed.</summary>\n  </algorithm_context>\n  <time_complexity>\n    <best_case>Big O notation and brief explanation</best_case>\n    <average_case>Big O notation and brief explanation</average_case>\n    <worst_case>Big O notation and brief explanation</worst_case>\n  </time_complexity>\n  <space_complexity>\n    <value>Big O notation</value>\n    <explanation>Brief explanation of memory usage.</explanation>\n  </space_complexity>\n  <analytical_insights>\n    Detailed explanation of why these metrics apply based on the algorithm's structure.\n  </analytical_insights>\n</performance_metrics>\n```\n\n**Constraints:**\n- Do not include any conversational filler or \"thinking aloud\" text in the final output.\n- The response must be strictly XML.\n- Ensure all complexity notations (e.g., O(n log n)) are mathematically accurate based on the provided engine output.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities (specifically the text generation tool) as needed to gather information and create the required outputs. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_simulation_engine",
+      "metadata": {
+        "title": "Simulation Engine",
+        "visual": {
+          "x": 1750,
+          "y": 700,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Generate and execute the algorithm's Python logic within a secure sandbox environment. This step simulates the algorithm's behavior on the specific input data to produce a raw sequence of execution events. The 'instruction' for the code generation will be derived from the 'algorithm_interpretation_engine' output."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe objective is to generate and execute Python code that simulates a specific algorithm's behavior based on a provided interpretation. You will translate the logic into executable code, run it within a secure sandbox environment, and capture the resulting raw sequence of execution events to analyze the algorithm's runtime behavior.\n\n## Task Definition\n1. **Analyze Logic**: Examine the logic provided in {{\"type\":\"in\",\"path\":\"node_step_algorithm_interpretation_engine\",\"title\":\"Algorithm Interpretation Engine\"}} to understand the required algorithmic steps and data flow.\n2. **Code Generation**: Transform the interpretation into a functional Python script. The script should be designed to produce a sequence of execution events (such as logging state changes, step-by-step prints, or a chronological list of operations).\n3. **Execution**: Use the designated sandbox tool to run the generated code against the relevant input data.\n4. **Data Capture**: Capture and organize the raw output and execution trace generated by the script.\n\n## Definitions and Specifications\n*   **Algorithm Interpretation Engine Output**: The source material found in {{\"type\":\"in\",\"path\":\"node_step_algorithm_interpretation_engine\",\"title\":\"Algorithm Interpretation Engine\"}} which defines the rules, logic, and flow of the algorithm to be implemented.\n*   **Execution Events**: A raw, sequential record of the internal actions and outputs produced by the algorithm during its execution in the sandbox.\n*   **Sandbox Environment**: A secure, isolated runtime for executing the generated Python code.\n\n## Capabilities Usage\nYou MUST use the following tool to complete this task:\n- Use <function>generate_and_execute_code</function> to implement and run the Python logic. The instructions provided to this tool should be derived directly from the data in {{\"type\":\"in\",\"path\":\"node_step_algorithm_interpretation_engine\",\"title\":\"Algorithm Interpretation Engine\"}}.\n\n## Requirements for the Ending Response\nThe final response must be structured in XML format to allow for programmatic parsing of the simulation results. Ensure the output follows this structure:\n\n```xml\n<simulation_results>\n    <algorithm_summary>A brief description of the algorithm that was executed.</algorithm_summary>\n    <execution_trace>\n        <event_sequence>The raw sequence of execution events/logs produced by the code.</event_sequence>\n    </execution_trace>\n    <status>SUCCESS or FAILURE</status>\n    <error_details>Include details here only if the execution failed; otherwise, leave empty.</error_details>\n</simulation_results>\n```\n\n**CRITICAL CONSTRAINTS:**\n- Do NOT include any \"thinking aloud\" or internal monologue in the final response.\n- The output MUST be strictly valid XML.\n- Ensure the Python code generates enough detail to fulfill the \"sequence of execution events\" requirement.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities (specifically <function>generate_and_execute_code</function>) as needed to gather information and create the required outputs. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_trace_processor",
+      "metadata": {
+        "title": "Trace Processor",
+        "visual": {
+          "x": 2100,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Transform the raw execution snapshots from the 'simulation_engine' into a structured state-based trace. This formatter organizes snapshots into a coherent timeline, preparing the data for frame-by-frame animation. The text_generation_agent will process and structure this raw execution output."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nTransform raw execution snapshots from the simulation engine into a structured, state-based trace formatted specifically for frame-by-frame animation.\n\n## Task Definition\n1. **Analyze Input**: Parse the raw execution snapshots provided in {{\"type\":\"in\",\"path\":\"node_step_simulation_engine\",\"title\":\"Simulation Engine\"}} to identify discrete events and state changes.\n2. **Extract State Data**: For each snapshot, identify the timestamp and the values of all relevant state variables.\n3. **Organize Chronologically**: Arrange the processed snapshots into a coherent timeline that reflects the sequence of execution.\n4. **Structure Data**: Use the designated text generation tool to format the organized snapshots into a structured trace.\n\n## Definitions and Specifications\n- **Raw Execution Snapshots**: Unprocessed data output directly from the {{\"type\":\"in\",\"path\":\"node_step_simulation_engine\",\"title\":\"Simulation Engine\"}}, containing various execution markers and state values at specific points in time.\n- **State-based Trace**: A sequential record of the system's state over time, where each entry (frame) represents the complete status of the simulation at a single point.\n- **Frame-by-Frame Animation Data**: Data structured in a way that an animation engine can interpret each entry as a distinct visual frame.\n\n## Capabilities Usage\nYou MUST use the text generation capability to process and structure the raw data.\n- Call <function>generate_text</function> to transform the raw snapshots from {{\"type\":\"in\",\"path\":\"node_step_simulation_engine\",\"title\":\"Simulation Engine\"}} into the structured state-based trace defined in the requirements.\n\n## Requirements for the Ending Response\n- **Format**: The final response must be provided in structured XML format to facilitate programmatic use for animation.\n- **Structure**: Use the following XML schema for the trace:\n    <trace>\n        <frame index=\"[number]\">\n            <timestamp>[value]</timestamp>\n            <state>\n                <variable name=\"[name]\">[value]</variable>\n            </state>\n        </frame>\n    </trace>\n- **Constraints**: \n    - The output must be valid XML.\n    - Do NOT include any preamble, conversational filler, or introductory text.\n    - Ensure all state variables found in the raw input are captured for every frame.\n    - **Implicit Thinking**: Perform all reasoning and data processing internally. Do NOT include your thinking process or scratchpad in the final output.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities (search, content generation, file system access) as needed to gather information and create the required outputs. Ensure your final response meets all format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_playback_controller",
+      "metadata": {
+        "title": "Playback Controller",
+        "visual": {
+          "x": 2450,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Generate the UI state management and animation logic, including the Play/Pause/Step controls and speed adjustment. This node also manages theme configurations (Dark/Light mode) and event-driven communication (e.g., onExecutionComplete), leveraging the 'trace_processor' and 'complexity_analyzer' outputs. The text_generation_agent will outline the logic for these UI components."
+      },
+      "type": "embed://a2/generate.bgl.json#module:main",
+      "configuration": {
+        "config$prompt": {
+          "parts": [
+            {
+              "text": "## Objective\nThe objective is to design and document a comprehensive UI state management and animation logic system for an algorithm visualization interface. This system must handle playback controls (Play, Pause, Step), playback speed, theme switching (Dark/Light), and event-driven notifications, specifically utilizing data derived from execution traces and complexity analysis.\n\n## Task Definition\nAs an advanced agent, you are required to perform the following steps to fulfill the objective:\n1. **Analyze Trace Data**: Process the information within {{\"type\":\"in\",\"path\":\"node_step_trace_processor\",\"title\":\"Trace Processor\"}} to determine the sequence of states and steps required for the animation timeline.\n2. **Analyze Performance Metrics**: Review {{\"type\":\"in\",\"path\":\"node_step_complexity_analyzer\",\"title\":\"Time & Space Complexity Analyzer\"}} to identify potential performance bottlenecks that might affect animation smoothness or require specific UI feedback.\n3. **Define State Architecture**: Outline the central state object, including properties for current step index, playback status (playing/paused), speed multiplier, and active theme.\n4. **Develop Animation Logic**: Specify the logic for transitioning between states, including the \"Step\" function (forward/backward) and the interval-based \"Play\" logic.\n5. **Implement Speed Adjustment**: Define how the animation interval scales based on user input for speed.\n6. **Configure Theme Management**: Outline the logic for switching between Dark and Light modes, including how UI components react to theme state changes.\n7. **Establish Event Communication**: Define the event-driven system, focusing on the `onExecutionComplete` trigger and how it signals the end of a trace playback to the rest of the application.\n8. **Generate Technical Outline**: Use the `generate_text` tool to produce a structured technical specification of this logic.\n\n## Input Data\nThe following inputs are provided to facilitate the logic generation:\n- **Trace Processor Output**: {{\"type\":\"in\",\"path\":\"node_step_trace_processor\",\"title\":\"Trace Processor\"}} (Contains the parsed execution steps).\n- **Complexity Analyzer Output**: {{\"type\":\"in\",\"path\":\"node_step_complexity_analyzer\",\"title\":\"Time & Space Complexity Analyzer\"}} (Contains algorithmic complexity and performance data).\n\n## Definitions and Specifications\n- **Playback Controls**: \n    - **Play**: Starts the automated progression through the trace steps.\n    - **Pause**: Halts the automated progression at the current index.\n    - **Step Forward/Backward**: Increments or decrements the current state index by exactly one.\n- **Speed Adjustment**: A variable or multiplier that determines the delay (in milliseconds) between automated steps during playback.\n- **Theme Configuration**: A mechanism to toggle between pre-defined CSS or component-level styles for \"Dark\" and \"Light\" visual modes.\n- **Event-Driven Communication**: A system where the UI logic emits signals (like `onExecutionComplete`) that other modules can listen for and respond to.\n\n## Capabilities Usage\nYou MUST use the following tool to complete this task:\n- Use <function>generate_text</function> to outline the specific implementation logic for the UI components and state management described above. The output should be a detailed technical design.\n\n## Requirements for the Ending Response\nThe final output must be a structured technical specification. Follow these format constraints:\n- **Format**: Output your response in XML format to ensure structured data retrieval.\n- **Structure**: Use the following tags:\n    - `<state_management_logic>`: Detailing the state variables and transitions.\n    - `<animation_logic>`: Detailing the playback and stepping mechanisms.\n    - `<theme_logic>`: Detailing the mode switching.\n    - `<event_logic>`: Detailing the `onExecutionComplete` and other event triggers.\n- **Tone**: Professional, technical, and precise.\n- **Constraint**: Do NOT include any introductory or concluding conversational filler. Think implicitly and do NOT include your thinking process in the final response.\n\n## Execution and Output Reminder\nTake a deep breath and carefully read all instructions and inputs. Think step-by-step about how to solve this task. Use your built-in capabilities, specifically the `<function>generate_text</function>`, to create the logic outlines based on the provided inputs. Ensure your final response meets all XML format constraints and requirements before outputting it."
+            }
+          ],
+          "role": "user"
+        },
+        "generation-mode": "text"
+      }
+    },
+    {
+      "id": "node_step_visualization_webpage",
+      "metadata": {
+        "title": "Rendering Engine",
+        "visual": {
+          "x": 2800,
+          "y": 350,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        },
+        "step_intent": "Synthesize the processed execution trace, complexity insights, and playback control logic, along with the original 'algorithm_type' and 'input_data', into a highly interactive, responsive webpage. This engine utilizes dynamic HTML/JS/CSS to render the algorithm's steps visually, supporting both array-based and canvas-based graph visualizations. The 'generate_webpage' API will create this interactive visualization."
+      },
+      "type": "embed://a2/a2.bgl.json#module:render-outputs",
+      "configuration": {
+        "text": {
+          "parts": [
+            {
+              "text": "Generate a highly interactive and responsive webpage for a Data Structures and Algorithms (DSA) Visualizer. The webpage should synthesize algorithm execution traces, complexity insights, and playback control logic into an engaging educational tool.\n\n**1. Layout Organization:**\n\n*   **Overall Structure**: Employ a modern, two-column layout for larger screens, transitioning to a single-column, stacked layout for smaller devices. A persistent header will house the application title and potentially the algorithm type. The main content will be divided into a primary visualization area and a supporting information/control panel.\n*   **Header**: A clean header at the top, displaying the application title \"DSA Visualizer\" and prominently featuring the `algorithm_type` and `input_data` currently being visualized.\n*   **Main Visualization Section**: This will be the focal point of the page, occupying the majority of the left column (or top section on mobile). It should contain a large, dynamic display area capable of rendering both array-based animations (e.g., bar charts for sorting) and canvas-based graph visualizations (nodes, edges, paths).\n*   **Control Panel (Right Column/Below Visualization)**: Positioned adjacent to the visualization (or directly below it on smaller screens). This panel will consolidate all interactive controls:\n    *   **Playback Controls**: Prominent Play, Pause, Step Forward, and Step Backward buttons.\n    *   **Speed Adjustment**: A slider for fine-tuning the animation speed.\n    *   **Theme Toggle**: A clear switch or button for Dark/Light mode.\n*   **Information Panel (Right Column/Below Controls)**: Directly below the Control Panel, or integrated within the right column.\n    *   **Time & Space Complexity**: Display the `complexity_analyzer` output (Best/Average/Worst-case Time Complexity and Space Complexity) in a structured, easily digestible format, perhaps using distinct cards or a table for each metric.\n    *   **Execution Trace**: A scrollable section presenting the `trace_processor` output. This will display a detailed, step-by-step log of the algorithm's execution, dynamically highlighting the current step during playback in sync with the visualization.\n\n**2. Style Design Language:**\n\n*   **Visual Design Approach**: Modern, professional, and technically sophisticated with a focus on interactivity and clarity. The design should evoke an \"enterprise-level\" feel, prioritizing readability and a smooth user experience.\n*   **Aesthetic Goal**: Premium, insightful, and highly engaging educational tool. The design should feel polished and intuitive, making complex algorithms approachable.\n*   **Color Scheme**: A sophisticated dual-theme approach (Dark/Light mode).\n    *   **Default (Dark Theme)**: Use deep charcoal grays or dark blues as primary background colors. Lighter grays and off-whites for text and secondary elements. Introduce a vibrant, electric accent color (e.g., teal, royal blue, lime green) for interactive elements, highlights, and key visualization components to provide a \"wow factor.\"\n    *   **Light Theme**: Soft whites or very light grays for backgrounds, with dark grays and blacks for text. The same vibrant accent color should be used for interactive elements.\n*   **Typography Style**:\n    *   **Headings & Body Text**: A clean, contemporary sans-serif font (e.g., 'Inter', 'Roboto', 'Open Sans') for excellent readability across all sizes.\n    *   **Technical Content (Trace, Complexity Values)**: A clear, monospaced font (e.g., 'Fira Code', 'JetBrains Mono') to distinguish code-like or data-specific information.\n*   **Spacing and Layout Principles**: Utilize generous whitespace to reduce cognitive load and create clear separation between different content blocks. Employ a consistent 8-point or 10-point grid system for spacing, padding, and margins to ensure visual harmony and professionalism. Information density should be balanced to prevent overwhelming the user, focusing on clean presentation of data.\n*   **Responsiveness**: Implement a mobile-first design strategy. Use flexible grid systems (CSS Grid or Flexbox), fluid typography that scales with viewport size, and adaptive images/media for the visualization to ensure optimal display and interaction across desktops, tablets, and mobile phones.\n\n**3. Component Guidelines:**\n\n*   **Interactive Visualization Canvas**: A `div` or `<canvas>` element that dynamically adapts to display either array elements (e.g., using SVG bars or animated divs) or graph structures (nodes, edges, weights) with clear animation of algorithm steps. States (e.g., comparing elements, swapped elements, visited nodes) should be highlighted with the accent color.\n*   **Playback Controls**: Use clearly recognizable icon buttons for Play, Pause, Step Forward, and Step Backward. A range input for speed adjustment should have appropriate labels.\n*   **Complexity Cards**: Display the theoretical performance metrics in distinct, border-delimited \"cards\" or sections, each with a clear title (e.g., \"Best Case Time Complexity\") and its calculated value.\n*   **Execution Trace Log**: A scrollable `div` containing discrete \"steps.\" Each step should be clearly numbered or timestamped, and the current active step during playback should have a distinct background or border highlight.\n*   **Theme Toggle**: A visually appealing toggle switch (e.g., a sun/moon icon) that instantly switches between Dark and Light modes.\n\nalgorithm_type: {{\"type\":\"in\",\"path\":\"ask_user_algorithm_type\",\"title\":\"Algorithm Type\"}}\n\ninput_data: {{\"type\":\"in\",\"path\":\"ask_user_input_data\",\"title\":\"Input Data\"}}\n\ncomplexity_analyzer: {{\"type\":\"in\",\"path\":\"node_step_complexity_analyzer\",\"title\":\"Time & Space Complexity Analyzer\"}}\n\ntrace_processor: {{\"type\":\"in\",\"path\":\"node_step_trace_processor\",\"title\":\"Trace Processor\"}}\n\nplayback_controller: {{\"type\":\"in\",\"path\":\"node_step_playback_controller\",\"title\":\"Playback Controller\"}}"
+            }
+          ],
+          "role": "user"
+        },
+        "b-system-instruction": {
+          "parts": [
+            {
+              "text": "You are an AI Web Developer. Your task is to generate a single, self-contained HTML document for rendering in an iframe, based on user instructions and data.\n\n**Visual aesthetic:**\n    * Aesthetics are crucial. Make the page look amazing, especially on mobile.\n    * Respect any instructions on style, color palette, or reference examples provided by the user.\n    * **CRITICAL: Aim for premium, state-of-the-art designs. Avoid simple minimum viable products.**\n    * **Use Rich Aesthetics**: The USER should be wowed at first glance by the design. Use best practices in modern web design (e.g. vibrant colors, dark modes, glassmorphism, and dynamic animations) to create a stunning first impression. Failure to do this is UNACCEPTABLE.\n    * **Prioritize Visual Excellence**: Implement designs that will WOW the user and feel extremely premium:\n        - Avoid generic colors (plain red, blue, green). Use curated, harmonious color palettes (e.g., HSL tailored colors, sleek dark modes).\n        - Using modern typography (e.g., from Google Fonts like Inter, Roboto, or Outfit) instead of browser defaults.\n        - Use smooth gradients.\n        - Add subtle micro-animations for enhanced user experience.\n    * **Use a Dynamic Design**: An interface that feels responsive and alive encourages interaction. Achieve this with hover effects and interactive elements. Micro-animations, in particular, are highly effective for improving user engagement.\n    * **Thematic Specificity**: Do not just create a generic layout. Define a clear \"vibe\" or theme based on the content. Use specific aesthetic keywords (e.g., \"Glassmorphism\", \"Neobrutalism\", \"Minimalist\", \"Comic Book Style\") to guide the design.\n    * **Typography Hierarchy**: Explicitly import and use font pairings. Use a distinct Display Font for headers and a highly readable Body Font for text.\n    * **Readability**: Pay extra attention to readability. Ensure the text is always readable with sufficient contrast against the background. Choose fonts and colors that enhance legibility.\n\n**Design and Functionality:**\n    * **Component-Based Design**: Do not just dump text into blocks. Semanticize the content into distinct UI components.\n    * **Layout Dynamics**: Break the grid. Avoid strict, identical grid columns. Use asymmetrical layouts, Bento grids, or responsive flexbox layouts where some elements span full width to create visual interest and emphasize key content.\n    * **Tailwind Configuration**: Extend the Tailwind configuration within a `<script>` block to define custom font families and color palettes that match the theme.\n    * Thoroughly analyze the user's instructions to determine the desired type of webpage, application, or visualization. What are the key features, layouts, or functionality?\n    * Analyze any provided data to identify the most compelling layout or visualization of it. For example, if the user requests a visualization, select an appropriate chart type (bar, line, pie, scatter, etc.) to create the most insightful and visually compelling representation. Or if user instructions say `use a carousel format`, you should consider how to break the content and any media into different card components to display within the carousel.\n    * If requirements are underspecified, make reasonable assumptions to complete the design and functionality. Your goal is to deliver a working product with no placeholder content.\n    * Ensure the generated code is valid and functional. Return only the code, and open the HTML codeblock with the literal string \"```html\".\n    * The output must be a complete and valid HTML document with no placeholder content for the developer to fill in.\n\n**Libraries:**\n  Unless otherwise specified, use:\n    * Tailwind for CSS\n    * **CRITICAL: Use the Tailwind CDN from `https://cdn.tailwindcss.com`. Do NOT use `tailwind.min.css` or any other local Tailwind file. Always include Tailwind using: `<script src=\"https://cdn.tailwindcss.com\"></script>`**\n\n**Constraints:**\n  * **External Links:** You ARE allowed to generate external links (`<a href=\"...\">` and `window.open(...)`) to external websites (e.g. google.com, wikipedia.org) for user navigation.\n  * **NO External Embeds:** Do NOT embed any external resources (e.g. `<script src=\"...\">`, `<img src=\"...\">`, `<iframe src=\"...\">`, `<link href=\"...\">`) from external URLs. Content Security Policy (CSP) will block them.\n  * **Media Restriction:** ONLY use media URLs that are explicitly passed in the input. Do NOT generate or hallucinate any other media URLs (e.g. from placeholder sites or external CDNs).\n  * **Render All Media:** You MUST render ALL media (images, videos, audio) that are passed in. Do NOT skip or omit any provided media items. Every passed-in media URL must appear in the final HTML output.\n  * **Navigation Restriction:** Do NOT generate unneeded fake links or buttons to sub-pages (e.g. \"About\", \"Contact\", \"Learn More\") unless explicitly requested. Stick to the plan and the provided content.\n  * **Footer Restriction:** **NEVER** generate any footer content, including legal footers like \"All rights reserved\" or \"Copyright 2024\". [It is a violation of Google's policies to hallucinate legal footers.]\n"
+            }
+          ],
+          "role": "user"
+        },
+        "p-render-mode": "Auto",
+        "b-render-model-name": "gemini-flash"
+      }
+    },
+    {
+      "id": "ask_user_algorithm_type",
+      "metadata": {
+        "title": "Algorithm Type",
+        "visual": {
+          "x": 250,
+          "y": 300,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        }
+      },
+      "type": "embed://a2/a2.bgl.json#21ee02e7-83fa-49d0-964c-0cab10eafc2c",
+      "configuration": {
+        "description": {
+          "parts": [
+            {
+              "text": "Enter the algorithm type to visualize"
+            }
+          ],
+          "role": "user"
+        },
+        "p-modality": "Any"
+      }
+    },
+    {
+      "id": "ask_user_input_data",
+      "metadata": {
+        "title": "Input Data",
+        "visual": {
+          "x": 250,
+          "y": 450,
+          "collapsed": "expanded",
+          "outputHeight": 88
+        }
+      },
+      "type": "embed://a2/a2.bgl.json#21ee02e7-83fa-49d0-964c-0cab10eafc2c",
+      "configuration": {
+        "description": {
+          "parts": [
+            {
+              "text": "Provide input data for the algorithm"
+            }
+          ],
+          "role": "user"
+        },
+        "p-modality": "Any"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "ask_user_algorithm_type",
+      "to": "node_step_input_validation_layer",
+      "out": "context",
+      "in": "p-z-ask_user_algorithm_type"
+    },
+    {
+      "from": "ask_user_algorithm_type",
+      "to": "node_step_algorithm_interpretation_engine",
+      "out": "context",
+      "in": "p-z-ask_user_algorithm_type"
+    },
+    {
+      "from": "ask_user_algorithm_type",
+      "to": "node_step_visualization_webpage",
+      "out": "context",
+      "in": "p-z-ask_user_algorithm_type"
+    },
+    {
+      "from": "ask_user_input_data",
+      "to": "node_step_input_validation_layer",
+      "out": "context",
+      "in": "p-z-ask_user_input_data"
+    },
+    {
+      "from": "ask_user_input_data",
+      "to": "node_step_visualization_webpage",
+      "out": "context",
+      "in": "p-z-ask_user_input_data"
+    },
+    {
+      "from": "node_step_input_validation_layer",
+      "to": "node_step_error_handler",
+      "out": "context",
+      "in": "p-z-node_step_input_validation_layer"
+    },
+    {
+      "from": "node_step_error_handler",
+      "to": "node_step_algorithm_interpretation_engine",
+      "out": "context",
+      "in": "p-z-node_step_error_handler"
+    },
+    {
+      "from": "node_step_algorithm_interpretation_engine",
+      "to": "node_step_complexity_analyzer",
+      "out": "context",
+      "in": "p-z-node_step_algorithm_interpretation_engine"
+    },
+    {
+      "from": "node_step_algorithm_interpretation_engine",
+      "to": "node_step_simulation_engine",
+      "out": "context",
+      "in": "p-z-node_step_algorithm_interpretation_engine"
+    },
+    {
+      "from": "node_step_simulation_engine",
+      "to": "node_step_trace_processor",
+      "out": "context",
+      "in": "p-z-node_step_simulation_engine"
+    },
+    {
+      "from": "node_step_complexity_analyzer",
+      "to": "node_step_playback_controller",
+      "out": "context",
+      "in": "p-z-node_step_complexity_analyzer"
+    },
+    {
+      "from": "node_step_complexity_analyzer",
+      "to": "node_step_visualization_webpage",
+      "out": "context",
+      "in": "p-z-node_step_complexity_analyzer"
+    },
+    {
+      "from": "node_step_trace_processor",
+      "to": "node_step_playback_controller",
+      "out": "context",
+      "in": "p-z-node_step_trace_processor"
+    },
+    {
+      "from": "node_step_trace_processor",
+      "to": "node_step_visualization_webpage",
+      "out": "context",
+      "in": "p-z-node_step_trace_processor"
+    },
+    {
+      "from": "node_step_playback_controller",
+      "to": "node_step_visualization_webpage",
+      "out": "context",
+      "in": "p-z-node_step_playback_controller"
+    }
+  ]
+}
